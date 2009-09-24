@@ -9,5 +9,6 @@
 		<modules>
 				<module>lib</module>
 				<module>client</module>
+				<module>generator-plugin</module>
 		</modules>
 </project>
